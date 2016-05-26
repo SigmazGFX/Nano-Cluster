@@ -319,13 +319,7 @@ starsmask[] =  {
     0x00, 0x00, 0x00, 0x00
 };
 
-
-/*const uint8_t* mask[] PROGMEM = {
-  subiemask0,subiemask1,subiemask1,fhilogomask,subarumask,threesixtymask,starsmask};
-const uint8_t* img[]  PROGMEM = {
- subie0,subie1,subie1,fhilogo,subaru,threesixty,stars};
- */
- const uint8_t* mask[] PROGMEM = {
+const uint8_t* mask[] PROGMEM = {
   subie0mask,subie1mask,subie1mask,fhilogomask,starsmask};
 const uint8_t* img[]  PROGMEM = {
  subie0,subie1,subie1,fhilogo,stars,subaru,threesixty};
