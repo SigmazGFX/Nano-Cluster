@@ -9,3 +9,4 @@ I believe you'll need to compile it on ~ IDE 1.5 becasue 1.6.5 throws an error p
 I'll write a better description later..
 
 [![Nano-Cluster](https://img.youtube.com/vi/O1rzJWp69nk/0.jpg)](https://www.youtube.com/watch?v=O1rzJWp69nk)
+[![Nano-Cluster](/DisplayTests/nano5.jpg)]
